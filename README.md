@@ -1,2 +1,2 @@
 # DotNetSQLTest
-A webapp to test the capabilities of realtime connections to an Azure SQL database
+A website built using Razor web pages to read and write sensor information stored within a MySQL database.
